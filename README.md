@@ -1,5 +1,14 @@
 ## Hi 👋, I'm Md Mahbub Alam
-A passionate Cloud Architect | Building scalable cloud solutions
+I am a Cloud Architect and Cloud Engineer focused on designing, deploying, and managing secure, scalable, and highly available cloud infrastructure.
+
+My core areas of interest include Cloud Architecture, Cloud Infrastructure, Networking, IAM, Security, Compute, Storage, Databases, Monitoring, and Infrastructure as Code.
+
+☁️ Cloud: Oracle Cloud Infrastructure (OCI), AWS, Azure
+🏗️ Architecture: High Availability, Scalability, Disaster Recovery, Fault Tolerance
+🔐 Security: IAM, Policies, Security Groups, Network Security
+🌐 Networking: VCN/VPC, Subnets, Routing, Load Balancers, DNS, VPN
+⚙️ DevOps & IaC: Terraform, Git, CI/CD, Linux
+🖥️ Infrastructure: Compute, Storage, Databases, Containers and Monitoring
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-mahbub-alam-270a01212?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahbubalam9775@gmail.com) 
